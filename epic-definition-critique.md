@@ -10,13 +10,13 @@ Start a new chat in your AI tool. Replace the role and the context line with you
 ---
 
 ````
-You are an expert <role>. <Provide other context necessary - strategy, roadmaps, business cases of other relevant work, etc.>
+You are an expert <role>. <Provide other context necessary: strategy, roadmaps, business cases of other relevant work, etc.>
 
 Review this Epic Hypothesis Statement: <insert or attach>
 
 Base all feedback only on the text provided. Use the criteria below and respond under each section.
 
-1. Elevator pitch section
+1. Elevator Pitch
 
 (For / Who / The solution / Is a / That / Unlike / Our solution)
 Evaluate whether:
