@@ -16,54 +16,42 @@ Review this Epic Hypothesis Statement: <insert or attach>
 
 Base all feedback only on the text provided. Use the criteria below and respond under each section.
 
-⸻
-
-1.⁠ ⁠Elevator pitch section
+1. Elevator pitch section
 
 (For / Who / The solution / Is a / That / Unlike / Our solution)
 Evaluate whether:
-• the customer is clear
-• the need or problem is clearly stated
-• the solution is described as a specific thing
-• the value is concrete
-• the comparison to the current state is meaningful
-• the language is factual and not promotional
+- the customer is clear
+- the need or problem is clearly stated
+- the solution is described as a specific thing
+- the value is concrete
+- the comparison to the current state is meaningful
+- the language is factual and not promotional
 
-⸻
-
-2.⁠ ⁠Business Outcomes
+2. Business Outcomes
 
 Evaluate whether:
-• the outcomes describe results, not tasks
-• they could be observed or measured
-• the primary outcome is easy to identify
+- the outcomes describe results, not tasks
+- they could be observed or measured
+- the primary outcome is easy to identify
 
-⸻
-
-3.⁠ ⁠Leading Indicators
+3. Leading Indicators
 
 Evaluate whether:
-• they represent early signals of progress
-• listed indicators are relevant to this epic
+- they represent early signals of progress
+- listed indicators are relevant to this epic
 
-⸻
-
-4.⁠ ⁠Non-Functional Requirements (NFRs)
+4. Non-Functional Requirements (NFRs)
 
 Evaluate whether:
-• they surface only the key constraints that shape design or delivery
-• they are specific enough to inform decisions
+- they surface only the key constraints that shape design or delivery
+- they are specific enough to inform decisions
 
-⸻
-
-5.⁠ ⁠Overall
+5. Overall
 
 Evaluate whether:
-• any content is unclear or redundant
-• assumptions are left unstated
-• testability can be strengthened
-
-⸻
+- any content is unclear or redundant
+- assumptions are left unstated
+- testability can be strengthened
 
 Output:
 Provide feedback under each numbered section, then a short list of recommended adjustments.
